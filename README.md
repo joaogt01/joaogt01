@@ -48,7 +48,7 @@ Me chamo João Victor, tenho 18 anos e sou natural de Caruaru-PE. Atualmente, es
 ### 📊 Estatísticas
 
 <p>
-  <img 
+   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
