@@ -1,66 +1,43 @@
-# 👨‍💻 João Victor
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Sou+estudante+de+sistemas+de+informação)](https://git.io/typing-svg) 
 
-**`Desenvolvedor Backend`**
-
-Me chamo João Victor, tenho 18 anos e sou natural de Caruaru-PE. Atualmente, estou cursando Sistemas de Informação na UPE. Sou apaixonado por tecnologia, games e afins.
-
-<p align="left">
-    <a href="https://github.com/joaogt01?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joaogt01?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/joaogt01?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joaogt01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&Fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" width="40" height="40" style="margin-left: 10px"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-left: 10px"/>
+  </a>
+</div>
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
 
-<p>
-   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaogt01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogt01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+## Ferramentas
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=FF4500&labelColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=000000)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF4500&labelColor=000000)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FF4500&labelColor=000000)&nbsp;
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <a href="https://github.com/joaogt01/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogt01&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/joaogt01/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogt01&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+  </a>
+</div>
