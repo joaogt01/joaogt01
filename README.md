@@ -1,43 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Sou+estudante+de+sistemas+de+informação)](https://git.io/typing-svg) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&Fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Eu+sou+João+Victor;Estudante+de+Sistemas+de+Informação)](https://git.io/typing-svg)
 
 ---
 
-## Linguagens e Tecnologias
-
-<div align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" width="40" height="40" style="margin-left: 10px"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-left: 10px"/>
-  </a>
-</div>
-
-
-
+## 🌟 Sobre mim
+- 🎓 Estudante de **Sistemas de Informação**  
+- 💻 Explorando novas tecnologias   
+- 📚 Apaixonado por **tecnologia, jogos e café ☕**  
+  
 
 ---
 
-## Ferramentas
-![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=FF4500&labelColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=000000)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF4500&labelColor=000000)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FF4500&labelColor=000000)&nbsp;
+## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,mysql" />
+</p>
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/joaogt01/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogt01&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogt01&show_icons=true&title_color=FF5733&text_color=F5F5F5&icon_color=DCDCDC&bg_color=151515&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogt01&show_icons=true&locale=en&layout=compact&theme=dark" alt="marialet14" />
+</p>
+
+---
+
+## 🎯 Contribuições e Atividade
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
+
+
+## 🎮 Projetos em Destaque
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+
+
+
+
+
+
+## 📫 Como me encontrar
+<p align="center">
+  <a href="https://wa.me/+5581998346147">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/joaogt01/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogt01&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+    <a href="https://linkedin.com/in/joão-victor-060632321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">✨ Feito com muito ☕ e ❤️ por João Victor ✨</p>
