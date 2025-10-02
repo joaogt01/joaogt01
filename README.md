@@ -33,6 +33,9 @@
 ## 🎮 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [📦 Cadastro de Produtos](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar estoque de produtos com funcionalidades de cadastro, listagem, atualização e deleção | Java, Spring Boot, Spring Security, JPA, MySQL |
+
+
 
 
 
