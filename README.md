@@ -4,7 +4,6 @@
 
 ## 🌟 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação**  
-- 💻 Explorando novas tecnologias   
 - 📚 Apaixonado por **tecnologia, jogos e café ☕**  
   
 
@@ -30,10 +29,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
 
 
-## 🎮 Projetos em Destaque
+## Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [📦 Cadastro de Estoque](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar clientes, produtos, estoque e vendas de uma loja | Java, Spring Boot, Spring Security, JPA, PostgreSQL, Flyway, Maven, Git |
+| [📦 Cadastro de Estoque](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar clientes, produtos, estoque e vendas de uma loja | Java, Spring Boot, Spring Security, JPA, PostgreSQL, Maven, Git |
 
 
 
@@ -42,7 +41,7 @@
 
 
 
-## 📫 Como me encontrar
+## 📫 Onde me encontrar
 <p align="center">
   <a href="https://wa.me/+5581998346147">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
