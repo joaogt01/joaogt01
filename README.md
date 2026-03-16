@@ -32,7 +32,8 @@
 ## Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [📦 Cadastro de Estoque](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar clientes, produtos, estoque e vendas de uma loja | Java, Spring Boot, Spring Security, JPA, PostgreSQL, Maven, Git |
+| [ Cadastro de Estoque](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar clientes, produtos, estoque e vendas de uma loja | Java, Spring Boot, Spring Security, JPA, PostgreSQL, Maven, Git |
+| [ BarberPunk](https://github.com/joaogt01/barbearia-agendamentos-api) | Sistema para gerenciar atendimentos e gerar relatórios de uma barbearia | Java, Spring Boot, Spring Security + Jwt, JPA, PostgreSQL, React + Typescript, Vite, Axios, Css |   
 
 
 
