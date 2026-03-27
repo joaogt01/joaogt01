@@ -10,8 +10,19 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,git,github,mysql,postgres,docker" />
+### **Back-end**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+</p>
+
+### **Front-end & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+</p>
+
+### **Banco de Dados & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
 </p>
 
 ---
