@@ -40,17 +40,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
 
 
-## Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [ Cadastro de Estoque](https://github.com/joaogt01/CadastroDeEstoque) | Sistema para gerenciar clientes, produtos, estoque e vendas de uma loja | Java, Spring Boot, Spring Security, JPA, PostgreSQL, Maven, Git |
-| [ BarberPunk](https://github.com/joaogt01/barbearia-agendamentos-api) | Sistema para gerenciar atendimentos e gerar relatórios de uma barbearia | Java, Spring Boot, Spring Security + Jwt, JPA, PostgreSQL, React + Typescript, Vite, Axios, Css |   
-
-
-
-
-
-
+   
 
 
 ## 📫 Onde me encontrar
