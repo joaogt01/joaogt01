@@ -30,19 +30,38 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogt01&show_icons=true&title_color=FF5733&text_color=F5F5F5&icon_color=DCDCDC&bg_color=151515&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaogt01&show_icons=true&locale=en&layout=compact&theme=dark" />
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogt01&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&hide_border=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaogt01&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🎯 Contribuições e Atividade
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaogt01&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
+## 🎯 Contribuições
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=joaogt01&background=000000&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
+    width="700"
+    height="280"
+    alt="GitHub Streak"
+  />
+</p>
 
-   
+<p align="center">
 
+---
 
+## 🎯 Atividade
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaogt01&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&border_color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
 ## 📫 Onde me encontrar
 <p align="center">
   <a href="https://wa.me/+5581998346147">
